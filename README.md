@@ -1,4 +1,8 @@
 # hello-world
-first repository
+First Repository.
 
-updated the file thanks!!
+Changes done in master, updated.
+
+changes done in branch 0835!!
+
+do more changes in branch 0835!!
